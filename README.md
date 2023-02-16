@@ -15,8 +15,8 @@
 ## Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+- [容器化教程 01 – 快速入门 Docker](https://miaomiaozhenren.com/index.php/2022/09/08/yi-docker-shi-shen-me/)
+- [跨端业务组件库方案调研-基于 h5 和 小程序](https://miaomiaozhenren.com/index.php/2022/03/03/kua-duan-ye-wu-zu-jian-ku-fang-an-diao-yanji-yu-h5/)
+- [monorepos 方案实践 – 基于动态表单类项目](https://miaomiaozhenren.com/index.php/2021/08/11/271/)
+- [带你全面了解 Git 系列 03 – Git常用工作流解析](https://miaomiaozhenren.com/index.php/2021/04/15/dai-ni-quan-mian-le-jie-git-xi-lie-03-git-chang-y/)
 <!-- BLOG-POST-LIST:END -->
